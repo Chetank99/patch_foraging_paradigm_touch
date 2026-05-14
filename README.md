@@ -81,7 +81,7 @@ The task sends precise event codes directly to the data file (and LSL if we plan
 
 ---
 
-## A paper from Prof Arjun Ramakrishnan having a similar paradigm
+## A paper from Arjun Ramakrishnan having a similar paradigm:
 
 This task paradigm is adapted from patch-foraging frameworks. For the full theoretical background, behavioral modeling approaches, and findings using variations of this task, you can check this outttt:
 
