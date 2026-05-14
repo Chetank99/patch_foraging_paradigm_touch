@@ -79,6 +79,8 @@ The task sends precise event codes directly to the data file (and LSL if we plan
 | **`9`** | **Reward Display Start** | On-screen berry harvest text (e.g., `+6.50`) becomes visible. |
 | **`6`** | **Trial End** | Delivered at the conclusion of feedback display or travel animation right before ITI. |
 
+A Sample video of a version with lesser number of trials (which can be configured from the ML logic) [is available here](https://drive.google.com/file/d/1YZ5vm8QCidHAOpAiM7z-eqIpjk7OfIRx/view?usp=sharing)
+
 ---
 
 ## A paper from Arjun Ramakrishnan having a similar paradigm:
@@ -88,5 +90,3 @@ This task paradigm is adapted from patch-foraging frameworks. For the full theor
 > **Barack, D. L., Ludwig, V. U., Parodi, F., Ahmed, N., Brannon, E. M., Ramakrishnan, A., & Platt, M. L.** (2024). *Attention deficits linked with proclivity to explore while foraging*. **Proceedings of the Royal Society B: Biological Sciences**, 291(2017), 20222584.  
 > **DOI:** [10.1098/rspb.2022.2584](https://doi.org/10.1098/rspb.2022.2584)  
 > **Article URL:** [Royal Society Publishing](https://royalsocietypublishing.org/rspb/article/291/2017/20222584/116431)
-
-A version with shorter number of trials (which can be configured from the ML logic) [is available here](https://drive.google.com/file/d/1YZ5vm8QCidHAOpAiM7z-eqIpjk7OfIRx/view?usp=sharing)
